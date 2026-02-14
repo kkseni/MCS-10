@@ -183,6 +183,7 @@ button {
 
     .menu {
         width: 330px;
+        background-repeat: no-repeat;
     }
 
     .logo-header {
